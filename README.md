@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninjacoder254
+- 👋 Hi, I’m Nassur @ninjacoder254
 - 👀 I’m interested in python, data analytics and Machine Learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data based projects
